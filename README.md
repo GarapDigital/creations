@@ -8,7 +8,7 @@ Collecting Creations from the Digital Working Team, We Make Our Best Efforts to 
 - [Artisan Backup](https://github.com/dayCod/laravel-artisan-backup) By [Wirandra Alaya](https://github.com/dayCod)
 
 ## List of Public Api
-- [Countrees](https://github.com/dayCod/count-trees-api) By [Wirandra Alaya](https://github.com/dayCod)
+- [List of Country API](https://github.com/dayCod/count-trees-api) By [Wirandra Alaya](https://github.com/dayCod)
 
 ## Credits
 - [Garap Digital](https://github.com/GarapDigital)
